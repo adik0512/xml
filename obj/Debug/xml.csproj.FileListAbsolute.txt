@@ -1,0 +1,9 @@
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\bin\Debug\xml.exe.config
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\bin\Debug\xml.exe
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\bin\Debug\xml.pdb
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\obj\Debug\xml.csprojResolveAssemblyReference.cache
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\obj\Debug\xml.Form1.resources
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\obj\Debug\xml.Properties.Resources.resources
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\obj\Debug\xml.csproj.GenerateResource.Cache
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\obj\Debug\xml.exe
+c:\users\alien\documents\visual studio 2015\Projects\xml\xml\obj\Debug\xml.pdb

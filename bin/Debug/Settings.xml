@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Application Parameters-->
+<options>
+  <window name="Form1">
+    <position>
+      <X>287</X>
+      <Y>104</Y>
+    </position>
+    <size>
+      <Width>594</Width>
+      <Height>642</Height>
+    </size>
+  </window>
+</options>
